@@ -1,0 +1,20 @@
+*.pyc
+musdb18/
+DataPreProcess/cv
+DataPreProcess/tr
+DataPreProcess/tt
+# Checkpoints
+Experiments/checkpoint/
+
+# Tensorboard logs
+Experiments/tensorboard_logs/
+
+# Temporary or log files
+*.log
+*.pth
+*.ckpt
+*.json
+*.mp4
+
+# Results and output files
+results.png
